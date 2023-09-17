@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+  background-color: #152164;
+  color: white;
+  text-align: center;
+}
+.wrap {
+  width: 40vw;
+  max-width: 100%;
+}
+.wrap-slides-outer {
+  border: 0.4rem solid white;
+  background: #fff;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  overflow: hidden;
+}
