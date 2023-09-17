@@ -129,7 +129,7 @@ img {
 #slide5:checked ~ .wrap-text-labels .wrap-labels .label-radio5 .dot {
   background: transparent;
 }
-
+/*for 1024px*/
 @media (max-width: 1024px) {
   .wrap {
     width: 60vw;   
@@ -142,7 +142,7 @@ img {
     align-self: flex-start;
   }
 }
-
+/*for 768px*/
 @media (max-width: 768px) {
   .wrap {
     width: 70vw;
