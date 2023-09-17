@@ -121,6 +121,9 @@ img {
   border-radius: 1px solid white;
   outline: 3px solid white;
 }
+.wrap-labels {
+  display: flex;
+}
 
 #slide1:checked ~ .wrap-text-labels .wrap-labels .label-radio1 .dot,
 #slide2:checked ~ .wrap-text-labels .wrap-labels .label-radio2 .dot,
