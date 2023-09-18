@@ -118,8 +118,8 @@ img {
 .dot:hover, .dot:active {
   border: 0.10rem solid white;
   background: white;
-  border-radius: 1px solid white;
-  outline: 3px solid white;
+  border-radius: 0.06rem solid white;
+  outline: 0.19rem solid white;
 }
 .wrap-labels {
   display: flex;
